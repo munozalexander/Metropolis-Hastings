@@ -1,5 +1,5 @@
 # Metropolis-Hastings
-Sample from a discrete distribution using Metropolis Hastings MCMC.
+Sample from a discrete distribution (only requires proportionality) using Metropolis Hastings MCMC.
 
 For a demo, run `python demo.py`
 
